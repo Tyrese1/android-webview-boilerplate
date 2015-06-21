@@ -1,3 +1,6 @@
+#android-webview-boilerplate
+webview boilerplate for Android Studio
+
 Hello! This is a fork of slymax's Android Webview boilerplate. I removed a couple of things to make it a pure and simple "drag n drop your website in and go" boilerplate.
 
 I've written a Swift boilerplate for iOS too, which you can find here.
