@@ -1,4 +1,10 @@
-This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app. [Materialize](http://materializecss.com/) and jQuery are already included.
+Hello! This is a fork of slymax's Android Webview boilerplate. I removed a couple of things to make it a pure and simple "drag n drop your website in and go" boilerplate.
+
+I've written a Swift boilerplate for iOS too, which you can find here.
+
+Armed with these tools, you can release your web app/game onto iOS and Android with very little effort!
+
+The readme stuff below was written by slymax...
 
 ### Getting Started
 
